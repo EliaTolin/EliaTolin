@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![EliaTolin GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliaTolin&count_private=true&show_icons=true)](https://github.com/EliaTolin)
+[![EliaTolin GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliaTolin&count_private=true&show_icons=true&theme=radical)](https://github.com/EliaTolin)
