@@ -1,7 +1,10 @@
 ### Hi there 👋
 🌱 Student of Computer Science at the University of Modena and Reggio Emilia
+
 ⚡ I Like: Python, Dart, Flutter, C++, C# and always available to learn!
+
 👯 I’m looking to collaborate with creative people
+
 🔭 I’m currently working on [Status Vaccini](https://github.com/EliaTolin/StatusVaccini)
 
 📫 mail@eliatolin.it
