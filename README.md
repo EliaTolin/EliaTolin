@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate with creative people
 
-🔭 I’m currently working on [Status Vaccini](https://github.com/EliaTolin/StatusVaccini)
+🔭 I’m currently working on [Status Vaccini](https://github.com/EliaTolin/infinity_sweeper)
 
 📫 <a href="mailto:mail@eliatolin.it">mail@eliatolin.it</a>
 <!--
