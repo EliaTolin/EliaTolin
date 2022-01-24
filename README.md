@@ -9,6 +9,8 @@
 🔭 I’m currently working on [Infinity Sweeper](https://github.com/EliaTolin/infinity_sweeper)
 
 📫 <a href="mailto:mail@eliatolin.it">mail@eliatolin.it</a>
+
+🌳 <a href="https://linktr.ee/eliatolin">My Link tree!</a>
 <!--
 **EliaTolin/EliaTolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
