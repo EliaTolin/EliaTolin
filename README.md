@@ -2,7 +2,7 @@
 
 🌱 Student of Computer Science at the University of Modena and Reggio Emilia
 
-⚡ I Like: Python, Dart, Flutter, C++, C# and always available to learn!
+⚡ I Like: Python, Flutter, NodeJS, C++, C# and always available to learn!
 
 👯 I’m looking to collaborate with creative people
 
