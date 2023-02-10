@@ -1,14 +1,14 @@
 ### Hi there 👋
+#### ⭐ Owner of Aurora Digital
+#### ⭐ Organizer of Flutter Modena
 
 🌱 Student of Computer Science at the University of Modena and Reggio Emilia
 
-⚡ I Like: Python, Flutter, NodeJS, C++, C# and always available to learn!
+⚡ I Like: Python, Flutter, Dart, C++, C# and always available to learn!
 
 👯 I’m looking to collaborate with creative people
 
-🔭 I’m currently working on [PA API Amazon WebServer](https://github.com/EliaTolin/paapi_amazon_webserver)
-
-📫 <a href="mailto:mail@eliatolin.it">mail@eliatolin.it</a>
+📫 I like meeting new talented people, if you have ideas, projects or anything write me! <a href="mailto:mail@eliatolin.it">mail@eliatolin.it</a>
 
 🌳 <a href="https://linktr.ee/eliatolin">My Link tree!</a>
 
