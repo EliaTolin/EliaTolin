@@ -8,9 +8,7 @@
 
 👯 I’m looking to collaborate with creative people
 
-📫 I like meeting new talented people, if you have ideas, projects or anything write me! <a href="mailto:mail@eliatolin.it">mail@eliatolin.it</a>
-
-🌳 <a href="https://linktr.ee/eliatolin">My Link tree!</a>
+📫 I like meeting new talented people, if you have ideas, projects or anything write me! <a href="mailto:elia.tolin@auroradigital.it">elia.tolin@auroradigital.it</a>
 
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliatolin/)
 [![name](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eliatolin)
