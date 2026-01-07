@@ -13,7 +13,7 @@
 
 - 🔭 Owner of **Aurora Digital**
 - 📍 Organizer of **Flutter Modena**
-- 🎓 CS Student @ **University of Modena and Reggio Emilia**
+- 🎓 **BSc in Computer Science** @ University of Modena and Reggio Emilia
 - 💻 Passionate about **Python**, **Flutter**, **Dart**, **C++**, **C#**, **TypeScript**, **Supabase**
 - 🤝 Always open to collaborating with **creative and passionate people**
 - ✉️ Feel free to reach out for ideas, projects or just to say hi!
